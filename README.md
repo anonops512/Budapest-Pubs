@@ -5,7 +5,7 @@
 - We do not forget.
 - Expect us.
 
-Pointer Pub   -   
+Pointer Pub   - 
 Shot Cafe & Bar   -   Finish
 Western Pub   -   
 Stex Ház   -   
