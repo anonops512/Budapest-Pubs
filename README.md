@@ -6,27 +6,27 @@
 - Expect us.
 
 Pointer Pub   - /
-Shot Cafe & Bar   -   Finish/
+Shot Cafe & Bar   -   FINISH/
 Western Pub   -   /
 Stex Ház   -   /
-For sale Pub   -   Finish/
+For sale Pub   -   FINISH/
 Cafe Vouge Pub   -   /
 Morrison's 2   -   /
 suszterinas   -   /
-Blokk Bistro   -   Finish/
-Matt Bár   -   Finish/
+Blokk Bistro   -   FINISH/
+Matt Bár   -   FINISH/
 Hauzol   -   /
 Corvinus Cafe   -   /
-Mazel Tov   -   Finish/
-Limit Bár   -   Finish/
+Mazel Tov   -   FINISH/
+Limit Bár   -   FINISH/
 Ötkert   -   /
 Kuplung   -   /
-Doboz   -   Finish/
+Doboz   -   FINISH/
 Instant   -   /
 UdvarROM   -   /
 Liter Bár   -  /
-MacskaFogó   -   Finish/
-Legjobbkocsma   -   Attack...
+MacskaFogó   -   FINISH/
+Legjobbkocsma   -   ATTACK...
 
 An unrelenting moral stance on issues and rights, regardless of direct provocation;
 A physical presence that accompanies online hacking activity;
