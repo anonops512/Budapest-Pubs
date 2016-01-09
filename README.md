@@ -27,3 +27,7 @@ UdvarROM   -
 Liter Bár   -   
 MacskaFogó   -   
 Legjobbkocsma   -   
+
+An unrelenting moral stance on issues and rights, regardless of direct provocation;
+A physical presence that accompanies online hacking activity;
+And a distinctive brand."[24]
