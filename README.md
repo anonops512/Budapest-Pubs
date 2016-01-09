@@ -5,8 +5,8 @@
 - We do not forget.
 - Expect us.
 
-Pointer Pub
-Shot Cafe & Bar
+Pointer Pub   -   
+Shot Cafe & Bar   -   
 Western Pub
 Stex Ház
 For sale Pub
