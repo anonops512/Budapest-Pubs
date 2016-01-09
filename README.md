@@ -24,7 +24,7 @@ Kuplung   -
 Doboz   -   Finish
 Instant   -   
 UdvarROM   -   
-Liter Bár   -   
+Liter Bár   -  
 MacskaFogó   -   Finish
 Legjobbkocsma   -   Attack
 
